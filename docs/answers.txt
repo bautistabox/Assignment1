@@ -1,0 +1,59 @@
+a. 
+	$ git push -u origin master
+
+	Counting objects: 7, done.
+	Delta compression using up to 4 threads.
+	Compressing objects: 100% (5/5), done.	
+	Writing objects: 100% (7/7), 753 bytes | 753.00 KiB/s, done.
+	Total 7 (delta 2), reused 0 (delta 0)
+	remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+	To https://github.com/bautistabox/Assignment1.git
+	   fbdbe93..0aacd6b  master -> master
+	Branch master set up to track remote branch master from origin.
+
+
+b.
+	NINE COMMITS
+
+	$ git log
+
+
+c.
+	 Wed Sep 27 16:31:42 2017
+
+	$ git log .gitignore
+
+d.
+	commit cb30d72a3d94c108f393c163a35c1cc9bf18ffca
+	commit 36a8e55e4bbdd171ab57d979e1a802d740f2db9b
+
+e.
+	Branching makes sure that unstable code does not get committed to 
+	main code base and it gives the developer a chance to make sure his/her
+	code is clean before it is merged with the main branch.
+
+f.
+	git log tells you all of the commits made to the repository
+	git status tells you if your repository is in sync with the main base
+
+g.
+	git log Weapon.h
+
+h.
+	git log --grep file
+
+i.
+	* Inheritance enables new objects to take on properties of other objects.
+	You can have a child class that inheritates data and functions from a 
+	parent class.
+	* Polymorphism refers to being able to generalize a functionality to a 
+	larger group. Like one function that can calculate the area of a circle,
+	rectangle and triangles.
+	* Encapsulation is the concept of hiding functionality and data from the 
+	user. Just like a car puts all of the complex components under a hood, 
+	OOP encapsulates most functions and data in a private section of code.
+ 
+	
+	
+	
+	
