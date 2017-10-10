@@ -1,4 +1,4 @@
-a. 
+5a. 
 	$ git push -u origin master
 
 	Counting objects: 7, done.
@@ -12,43 +12,43 @@ a.
 	Branch master set up to track remote branch master from origin.
 
 
-b.
+5b.
 	NINE COMMITS
 
 	$ git log
 
 
-c.
+5c.
 	 Wed Sep 27 16:31:42 2017
 
 	$ git log .gitignore
 
-d.
+5d.
 	commit cb30d72a3d94c108f393c163a35c1cc9bf18ffca
 	commit 36a8e55e4bbdd171ab57d979e1a802d740f2db9b
 
-e.
+5e.
 	Branching makes sure that unstable code does not get committed to 
 	main code base and it gives the developer a chance to make sure his/her
 	code is clean before it is merged with the main branch.
 
-f.
+5f.
 	git log tells you all of the commits made to the repository
 	git status tells you if your repository is in sync with the main base
 
-g.
+5g.
 	git log Weapon.h
 
-h.
+5h.
 	git log --grep file
 
-i.
+5i.
 	* Inheritance enables new objects to take on properties of other objects.
 	You can have a child class that inheritates data and functions from a 
 	parent class.
 	* Polymorphism refers to being able to generalize a functionality to a 
 	larger group. Like one function that can calculate the area of a circle,
-	rectangle and triangles.
+	rectangle and triangles (function overloading).
 	* Encapsulation is the concept of hiding functionality and data from the 
 	user. Just like a car puts all of the complex components under a hood, 
 	OOP encapsulates most functions and data in a private section of code.
