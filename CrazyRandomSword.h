@@ -15,7 +15,8 @@
 * Defines behavior of a crazy random sword
 * hitpoints = random integer number between 10
 * and 100. Ignores a random amount of integer
-* armor points, ranging from to 0 to half of * the armor the weapon hits.
+* armor points, ranging from to 0 to half of 
+* the armor the weapon hits.
 */
 
 class CrazyRandomSword : public Weapon {
@@ -28,4 +29,4 @@ public:
 
 };
 
-#endif /* SIMPLEAXE_H */
+#endif /* CRAZYRANDOMSWORD_H */
