@@ -56,4 +56,10 @@
 	
 	
 	
-	
+7.	
+	The RoleGame prototype is using Polymorphism. Each instance of the
+	weapon class has a different implementation for a hit() function. 
+	The prototype also uses encapsulation in terms of have a protected 
+	section of code. This section of code is accessable by children of 
+	the class but it is still protected from outside users, only available
+	through accessor functions.	
